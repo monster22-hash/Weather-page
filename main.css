@@ -53,6 +53,9 @@ main{
     font-size: 25px;
     background-repeat: no-repeat;
     background-size: cover;
+    max-width: 100%;
+    height: auto;
+
     /* background-image: url('welcome.gif'); */
 }
 #temp{
